@@ -15,6 +15,9 @@
 📌 Projects I have worked on:
 - **BoolBNB** 🏡 – A platform for searching accommodations.  
 - **BoolFix** 🎬 – A Netflix-inspired website.  
-- **Project-Doc** 🩺 – A showcase website for doctors.  
+- **Project-Doc** 🩺 – A showcase website for doctors.
+
+### 🌱 Personal Growth  
+*"We cannot become what we want by remaining what we are."* – **Max DePree**  
 
 📫 **Feel free to contact me on GitHub or LinkedIn!**
