@@ -13,9 +13,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 📌 Projects I have worked on:
+- **Project-Doc** 🩺 – A showcase website for doctors.
 - **BoolBNB** 🏡 – A platform for searching accommodations.  
 - **BoolFix** 🎬 – A Netflix-inspired website.  
-- **Project-Doc** 🩺 – A showcase website for doctors.
 
 ### 🌱 Personal Growth  
 *"We cannot become what we want by remaining what we are."* – **Max DePree**  
