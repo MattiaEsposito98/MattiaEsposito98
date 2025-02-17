@@ -1,7 +1,6 @@
-## Hi there Mattia  👋
+## Hi! I'm Mattia  👋
 
-<!--
-💻 **Web Developer Junior** appassionato di sviluppo full-stack. 
+💻 **Junior Web Developer** passionate about full-stack development.  
 
 ### 🚀 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -13,10 +12,9 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-📌 Ho lavorato su progetti come:
-- **BoolBNB** 🏡 – Piattaforma per la ricerca di alloggi.
-- **BoolFix** 🎬 – Sito ispirato a Netflix.
-- **Project-Doc** 🩺 – Sito vetrina per dottori.
+📌 Projects I have worked on:
+- **BoolBNB** 🏡 – A platform for searching accommodations.  
+- **BoolFix** 🎬 – A Netflix-inspired website.  
+- **Project-Doc** 🩺 – A showcase website for doctors.  
 
-📫 **Contattami su GitHub o LinkedIn!**
--->
+📫 **Feel free to contact me on GitHub or LinkedIn!**
